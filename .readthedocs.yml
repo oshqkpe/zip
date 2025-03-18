@@ -1,7 +1,9 @@
 version: 2
 
-sphinx:
-  configuration: docs/conf.py
+build:
+  os: ubuntu-latest
+  tools:
+    python: "3.8"
 
 mkdocs:
   configuration: mkdocs.yml
