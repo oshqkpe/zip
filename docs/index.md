@@ -22,6 +22,6 @@
 </div>
 
 
-## Youjizz动态
+## www.Youjizzcom.动态
 
 To get started with My Software, check out the [Content Page](content.md).
