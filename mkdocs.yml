@@ -1,0 +1,6 @@
+site_name: My Software
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Content: content.md
